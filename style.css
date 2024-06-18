@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 150px;
+    height: 220;
+    transform-origin: 0% 100%;
+}
+div:nth-child(1) {
+    transform: translateX(462) rotate(-75deg);
+}
+div:nth-child(2) {
+    transform: translateX(380) rotate(-50deg);
+}
+div:nth-child(3) {
+    transform: translateX(164) rotate(-25deg);
+}
+div:nth-child(5) {
+    transform: translateX(104) rotate(25deg);
+}
+div:nth-child(6) {
+    transform: translateX(52) rotate(50deg);
+}
+div:nth-child(7) {
+    transform: translateX(25) rotate(25deg);
+}
+
+
+
+    
+
+
+
+    
+    
+

@@ -1,0 +1,46 @@
+h1:active{
+    color: red;
+    /* ustiga mishkani olib borilasa */
+    /* transition: 3s; */
+    /* vaqti */
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+    margin: auto;
+}
+div:hover{
+    background-color: aqua;
+    /* transform: rotate(1350deg); */
+    transition: 3s;
+    /* transform:rotateX(1600deg) */
+    /* x oqi atrofida */
+    transform: translateY(400px);
+    /* y o'qi atrofida */
+    transform:  translateX(-2000px) translateY(3000px);
+    /* birdaniga ishlatish */
+    /* transform: scaleX(3); */
+    /* hajmini o'zgartiradi */
+    /* x width */
+    /* y height */
+    /* transform scale: (4,1.5) */
+    /* ikkalasini ishlatish */
+
+
+    
+    
+}
+
+
+    
+
+    
+
+
+
+
+    
+    
+
+
